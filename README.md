@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tusharpatidar0104
-- 👀 I’m interested in website development and data science.
-- 🌱 I’m currently learning data science.
+- 👀 I’m interested in full stack development.
+- 🌱 I'm practising Java, Spring, Angular, Oracle. 
 - 💞️ I’m looking to collaborate with experienced people to work on real time projects.
 - 📫 How to reach me - drop a mail on tshrptdr@gmail.com 
 
